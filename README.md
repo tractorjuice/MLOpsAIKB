@@ -13,6 +13,8 @@ Building an MLOps AI Body of Knowledge using YouTube, Pinecone, Langchain, and O
 
 [Part 4: Querying the vector database using OpenAI/ChatGPT](https://github.com/tractorjuice/MLOpsAIKB/blob/main/Building_MLOps_AI_Body_of_Knowledge_Part_4_Query_Data.ipynb)
 
+[Part 5: Chat User Interface](https://github.com/tractorjuice/MLOps_AI_KB_Chat)
+
 ## Author
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mcraddock?style=social)](https://twitter.com/mcraddock)
